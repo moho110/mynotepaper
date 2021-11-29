@@ -1,0 +1,19 @@
+{
+    "name": "mynotepaper/greeter",
+    "description": "A simple Laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VRer",
+            "email": "houyue0074@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mynotepaper\\Greeter\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
